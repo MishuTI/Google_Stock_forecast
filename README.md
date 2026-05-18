@@ -48,7 +48,7 @@ A robust **time series forecasting** project that predicts Google (GOOGL) stock 
 ---
 
 ### 📈 Results Highlights
-![Alt text](https://github.com/MishuTI/weather_data_analysis/blob/main/weather.PNG)
+![Alt text](https://github.com/MishuTI/Google_Stock_forecast/blob/main/my_plot4.png)
 
 - Successfully handled trending financial time series data
 - Captured both trend and seasonal patterns
